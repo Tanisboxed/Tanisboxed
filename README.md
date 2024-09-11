@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tanishajauhari2202@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ini_ciYdBbWkp2B-t6qm7JpnsIvKMK8w/view?usp=sharing](https://drive.google.com/file/d/1ini_ciYdBbWkp2B-t6qm7JpnsIvKMK8w/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1v3k3fv2jrIkQ32Zn-M_1JX4opWSCqtSH/view?usp=sharing](https://drive.google.com/file/d/1v3k3fv2jrIkQ32Zn-M_1JX4opWSCqtSH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
