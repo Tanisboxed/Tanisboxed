@@ -1,5 +1,5 @@
 <h1 align="left">Hey There :], I'm Tanisha Jauhari 🙇‍♀️</h1>
-<h3 align="center">I'm an undergrad at VIT Vellore, A Passionate Software developer and UI/UX Designer. Just putting stuff out here for my passion projects and things I learn throughout my years in college :D. Have a lot of things to learn but I'm all here for it. Check out my linkedIn if you want to connect and collaborate :] <3</h3>
+<h3 align="center">I'm a Software Development Engineer and UI/UX Designer. Just putting stuff out here for my passion projects and things I learn throughout my years in college :D. Have a lot of things to learn but I'm all here for it. Check out my linkedIn if you want to connect and collaborate :] <3</h3>
 
 - 🔭 I’m currently working on [GeoSentinel: Real-time Surveillance and Crisis Mapping](https://github.com/Tanisboxed/GeoSentinel-Surveillance)
 
